@@ -22,10 +22,10 @@ Une entreprise de modèles réduits et de maquettes de vehicules à besoin de no
 - importation des nouvelles données travaillé precedemment sur SQL afin de réaliser la data vizualisation sur Power BI.
 
 
-***2 fichiers sont télécharger*** :
+2 fichiers à visualiser :
 
-- un contenant les codes SQL
-- un contenant la partie POWER BI soit en format png soit en power point.
+1) https://github.com/data-will/project1_school/blob/main/Code_SQL_PROJET1.ipynb ( code SQL )
+2) https://github.com/data-will/project1_school/blob/main/POWERBI_PNG_PROJET1.png (Power BI, data viz)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________________________
@@ -54,5 +54,5 @@ Several KPI's are requested:
 
 ***2 files are downloaded*** :
 
-- one containing the SQL codes
-- one containing the POWER BI part either in png format or in power point.
+1) https://github.com/data-will/project1_school/blob/main/Code_SQL_PROJET1.ipynb ( code SQL )
+2) https://github.com/data-will/project1_school/blob/main/POWERBI_PNG_PROJET1.png (Power BI, data viz)
