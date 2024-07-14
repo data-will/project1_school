@@ -25,7 +25,7 @@ Une entreprise de modèles réduits et de maquettes de vehicules à besoin de no
 2 fichiers à visualiser :
 
 1) https://github.com/data-will/project1_school/blob/main/Code_SQL_PROJET1.ipynb ( code SQL )
-2) https://github.com/data-will/project1_school/blob/main/KPIS_Porjet1.png (Power BI, data viz)
+2) https://github.com/data-will/project1_school/blob/main/PROJECT%201.png (Power BI, data viz)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________________________
@@ -55,4 +55,4 @@ Several KPI's are requested:
 ***2 files are downloaded*** :
 
 1) https://github.com/data-will/project1_school/blob/main/Code_SQL_PROJET1.ipynb ( code SQL )
-2) https://github.com/data-will/project1_school/blob/main/KPIS_Porjet1.png (Power BI, data viz)
+2) https://github.com/data-will/project1_school/blob/main/PROJECT%201.png (Power BI, data viz)
